@@ -1,4 +1,3 @@
-# Fake-news-detection-project
 # Fake News Detection AI 📰🤖
 
 This project detects whether a news article is **Fake or Real** using a fine-tuned **DistilBERT** model.
