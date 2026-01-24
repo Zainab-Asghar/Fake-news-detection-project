@@ -9,8 +9,6 @@ This project focuses on detecting the authenticity of news articles (Fake vs. Re
 - RESTful prediction API built with Flask.
 - Deployment-ready architecture.
 
-Model
-
 3: Model
 - DistilBERT (fine-tuned)
 - Accuracy: ~99%
