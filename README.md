@@ -4,10 +4,10 @@ This project focuses on detecting the authenticity of news articles (Fake vs. Re
 
 2: Features
 
-Transformer-based fake news detection using DistilBERT.
-Preprocessed and balanced dataset.
-RESTful prediction API built with Flask.
-Deployment-ready architecture.
+- Transformer-based fake news detection using DistilBERT.
+- Preprocessed and balanced dataset.
+- RESTful prediction API built with Flask.
+- Deployment-ready architecture.
 
 Model
 
