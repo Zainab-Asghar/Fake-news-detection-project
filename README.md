@@ -1,12 +1,15 @@
- 1: Fake News Detection AI
+ 1: AI-Based News Authenticity Analyzer Using DistilBERT
 
-This project detects whether a news article is **Fake or Real** using a fine-tuned **DistilBERT** model.
+This project focuses on detecting the authenticity of news articles (Fake vs. Real) using a fine-tuned DistilBERT transformer model. The system is designed to support research in misinformation analysis and applied NLP, with an emphasis on accuracy, scalability, and real-world deployment.
 
 2: Features
-- Transformer-based fake news detection
-- Cleaned & balanced dataset
-- Flask API for predictions
-- Ready for deployment
+
+Transformer-based fake news detection using DistilBERT.
+Preprocessed and balanced dataset.
+RESTful prediction API built with Flask.
+Deployment-ready architecture.
+
+Model
 
 3: Model
 - DistilBERT (fine-tuned)
